@@ -13,7 +13,8 @@ Challenge:
 1. Target is imbalanced
 There are lots of methods to deal with imbalanced targets. Some common methods are creating synthetic data or duplicating data. In this task, I used SMOTE/SMOTEENN/SMOTENC and resample, to see which perform better using Random Forest Classifier. Below are the feature importances from different upsampling methods:
 
-![Upsampling_feature_importance](https://user-images.githubusercontent.com/88300660/134280523-4f51efc2-e78d-40e4-bc77-77e1b41f70f5.png)
+![Upsampling](https://user-images.githubusercontent.com/88300660/134284347-63fa935a-4e4d-4cbe-9105-c4c0d93e403d.png)
+
 
 It shows creating synthetic data changes the pattern of data and affects model prediction. While duplicating data does not change the model prediction.
 
@@ -32,7 +33,9 @@ Notebooks uploaded:
 1.HR_Analytics_EDA
 - data cleaning
 - EDA
-![EDA](https://user-images.githubusercontent.com/88300660/134283961-ffa1bfda-b39e-47af-b8d1-a6a1221fe53e.png)
+![EDA_](https://user-images.githubusercontent.com/88300660/134284319-8b762c7c-312e-4c40-b2b3-c4370b0563f8.png)
+
+
 
 2.HR_Analytics_Model_building
 -Data preprocessing
