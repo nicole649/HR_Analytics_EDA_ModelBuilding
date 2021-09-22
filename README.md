@@ -32,13 +32,11 @@ Notebooks uploaded:
 1.HR_Analytics_EDA
 - data cleaning
 - EDA
--![EDA](https://user-images.githubusercontent.com/88300660/134283961-ffa1bfda-b39e-47af-b8d1-a6a1221fe53e.png)
-
+![EDA](https://user-images.githubusercontent.com/88300660/134283961-ffa1bfda-b39e-47af-b8d1-a6a1221fe53e.png)
 
 2.HR_Analytics_Model_building
 -Data preprocessing
 -Model Building
-![catboost](https://user-images.githubusercontent.com/88300660/134282588-2b8f415b-3980-4206-b67d-96b6d7a4448b.png)
 
 3.HR Analytics_Upsampling
 - Comparison of various upsampling methods
