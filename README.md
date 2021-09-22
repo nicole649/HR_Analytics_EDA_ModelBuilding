@@ -33,9 +33,6 @@ Notebooks uploaded:
 1.HR_Analytics_EDA
 - data cleaning
 - EDA
-![EDA_](https://user-images.githubusercontent.com/88300660/134284319-8b762c7c-312e-4c40-b2b3-c4370b0563f8.png)
-
-
 
 2.HR_Analytics_Model_building
 -Data preprocessing
