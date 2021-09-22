@@ -28,13 +28,12 @@ Model used:
 Random Forest, XGBoost, LightGBM and CatBoost are used in model building. Since XGBoost, LightGBM and CatBoost can handle imbalanced target and missing values, I chose to build models without upsampling and imputing. CatBoost can handle categorical features in its text form (no encoding needed), so I used it in the final model building.
 
 
-
 Notebooks uploaded:
 1.HR_Analytics_EDA
 - data cleaning
 - EDA
-![experience_job](https://user-images.githubusercontent.com/88300660/134282423-f846b0bc-7637-4ade-b25d-cadde5751c48.png)
-![correlation](https://user-images.githubusercontent.com/88300660/134282429-5efb6e96-b4db-4412-b055-cb6021b854cf.png)
+-![EDA](https://user-images.githubusercontent.com/88300660/134283961-ffa1bfda-b39e-47af-b8d1-a6a1221fe53e.png)
+
 
 2.HR_Analytics_Model_building
 -Data preprocessing
